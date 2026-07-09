@@ -1,3 +1,3 @@
 # TAACxKDD-2026
 
-![image1](TAAC 2026x KDD Cup 2026.png)
+![image1](TAAC_2026_KDD_Cup_2026.png)
